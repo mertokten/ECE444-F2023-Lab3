@@ -16,3 +16,10 @@ textbook example 2-2:
 
 textbook example 2-2 commit message:
 <img width="506" alt="activity2 2-2 commit" src="https://github.com/mertokten/ECE444-F2023-Lab1/assets/31061207/462777bb-ae3c-400c-9c25-1ed993ee45bb">
+
+activity3:
+commit message for finishing activity :
+<img width="909" alt="Screenshot 2023-09-17 at 11 58 41 PM" src="https://github.com/mertokten/ECE444-F2023-Lab1/assets/31061207/5dd07347-5c58-4861-9d4e-a75ac63e42de">
+
+screenshot of the page after activity3:
+<img width="643" alt="Screenshot 2023-09-17 at 11 55 34 PM" src="https://github.com/mertokten/ECE444-F2023-Lab1/assets/31061207/e5656864-7385-4a44-996c-bcbb89bca10f">
