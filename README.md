@@ -41,3 +41,4 @@ activity4-5 screenshot:
 <img width="1132" alt="activity4-5 web ss" src="https://github.com/mertokten/ECE444-F2023-Lab1/assets/31061207/f93afb75-bf29-43d6-a29b-cf9442fc3fb1">
 
 activty4 step 2 commit message:
+<img width="478" alt="Screenshot 2023-09-20 at 12 09 51 AM" src="https://github.com/mertokten/ECE444-F2023-Lab1/assets/31061207/4693c0ec-7455-4bd8-ae5f-b869ded91593">
