@@ -2,6 +2,7 @@
 This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 #activity 1:
+
 <img width="507" alt="activity1" src="https://github.com/mertokten/ECE444-F2023-Lab1/assets/31061207/723e5fe1-0d92-4ad8-849d-e11e7e1252d2">
 
 #activity2:
