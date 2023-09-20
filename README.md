@@ -13,6 +13,7 @@ textbook example 2-1 commit message:
 <img width="497" alt="activity2 2 1 commit" src="https://github.com/mertokten/ECE444-F2023-Lab1/assets/31061207/b0a44df6-44df-4957-a06d-b74c772beebe">
 
 textbook example 2-2:
+
 <img width="497" alt="activity2 2 2" src="https://github.com/mertokten/ECE444-F2023-Lab1/assets/31061207/d7416e7c-1808-4fcf-b86f-cb08ae960349">
 
 textbook example 2-2 commit message:
