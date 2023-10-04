@@ -14,6 +14,8 @@ screenshot proof of the installed docker:
 screenshot of app running locally
 <img width="1510" alt="Screenshot 2023-10-04 at 4 37 41 PM" src="https://github.com/mertokten/ECE444-F2023-Assignment1/assets/31061207/ebd4ef13-42fa-418b-a18f-f65744615c04">
 
+# activity 4:
+
 a screenshot of the log message for the commands:
 
 <img width="934" alt="Screenshot 2023-10-04 at 4 54 22 PM" src="https://github.com/mertokten/ECE444-F2023-Assignment1/assets/31061207/59f6559c-5c51-4ee9-9885-06d0d96daa3d">
