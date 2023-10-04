@@ -1,4 +1,4 @@
-#!/Users/mert/Documents/GitHub/ECE444-F2023-Lab1/venv/bin/python3
+#!/Users/mert/Documents/GitHub/ECE444-F2023-Lab3/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
