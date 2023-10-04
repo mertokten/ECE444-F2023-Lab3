@@ -3,7 +3,7 @@
 {% block title %}Flasky{% endblock %}
 {% block page_content %}
 <div class="page-header">
-    <h1>Hello, {% if name %}{{ name }}{% else %}Stranger{% endif %}!</h1>
+    <h1>Hello, {% if name %}{{ name }}{% else %}Stranger{% endif %}! Welcome to Lab3 Docker!</h1>
     {% if uoft == 1 %}{% if mail %}<h1>Your UofT email is {{ mail }}</h1>{% endif %}
     {% elif uoft == 3 and mail == None %}<h1>Please use your UofT email.</h1>{% endif %}
 </div>

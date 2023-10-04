@@ -1,6 +1,27 @@
 ## Mert
 This repo is a clone of https://github.com/miguelgrinberg/flasky
 
+## lab3 activities:
+
+# activity 2:
+
+screenshot proof of the installed docker:
+
+<img width="468" alt="Screenshot 2023-10-04 at 4 30 16 PM" src="https://github.com/mertokten/ECE444-F2023-Assignment1/assets/31061207/2417604a-9583-49f7-b88f-20a86b6a999e">
+
+# activity 3:
+
+screenshot of app running locally
+<img width="1510" alt="Screenshot 2023-10-04 at 4 37 41 PM" src="https://github.com/mertokten/ECE444-F2023-Assignment1/assets/31061207/ebd4ef13-42fa-418b-a18f-f65744615c04">
+
+a screenshot of the log message for the commands:
+
+<img width="934" alt="Screenshot 2023-10-04 at 4 54 22 PM" src="https://github.com/mertokten/ECE444-F2023-Assignment1/assets/31061207/59f6559c-5c51-4ee9-9885-06d0d96daa3d">
+
+a screenshot of the running application
+<img width="1512" alt="Screenshot 2023-10-04 at 4 54 49 PM" src="https://github.com/mertokten/ECE444-F2023-Assignment1/assets/31061207/56579437-1611-45e4-ae81-108e04be6d50">
+
+## lab1 activities:
 #activity 1:
 
 <img width="507" alt="activity1" src="https://github.com/mertokten/ECE444-F2023-Lab1/assets/31061207/723e5fe1-0d92-4ad8-849d-e11e7e1252d2">
